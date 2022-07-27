@@ -1,9 +1,9 @@
 {
     "name": "iboxs/encryption",
-    "description": "HTTP requester",
+    "description": "加密组件",
     "type": "1",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "zqu",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "iboxs\\http\\": "src/"
+            "iboxs\\encryption\\": "src/"
         }
     }
 }
